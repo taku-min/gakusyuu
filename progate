@@ -224,3 +224,6 @@ DateクラスのインスタンスをつくるためにDate.newを使いまし�
   <-- /* 1月12日 今日はruby on railsついて学習した。
   ruby on railsとはWebアプリケーション開発のためのフレームワーク事をいう。
   Railsで開発を始めるには、「rails new アプリケーション名」というコマンドをターミナルで実行します。 -->
+
+  <-- /* 1月13日 今日はruby on rails昨日の続きを学習した。
+  トップページを作成するには、「rails generate controller home top」というコマンドをターミナルで実行します。 -->
