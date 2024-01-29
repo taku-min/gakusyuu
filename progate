@@ -287,3 +287,6 @@ DateクラスのインスタンスをつくるためにDate.newを使いまし�
 
  <-- /* 1月29日 今日はruby on railsのモデルについてを学習した。
  rails g modelコマンドによって、Postモデルが定義されたファイル、post.rbが、app/modelsフォルダの中に作成されています。 -->
+
+ <-- /* 1月30日 今日はruby on railsのrails consoleの使い方についてを学習した。
+ ターミナル上で「rails console」と入力し実行（Enter）することで、コンソールを起動することができます。 -->
