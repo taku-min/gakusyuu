@@ -353,3 +353,6 @@ created_atを基準に降順（:desc）に並べ替えると、新しいもの�
 <-- /* 2月15日 今日はruby on railsはレイアウトの仕組みについてを学習した。
 「views/layouts/application.html.erb」には<%= yield %>というコードがあります。top.html.erbなどの各ビューファイルは、この<%= yield %>の部分に代入され、
 application.html.erbの一部としてブラウザに表示され、この仕組みによって、ヘッダーなどの共通のレイアウトを1つにまとめることができます。 -->
+
+<-- /* 2月16日 今日はruby on railsはlink_toメソッドについてを学習した。
+link_toというメソッドを使うと<a>タグを作成することができる。link_to メソッドは Ruby のコードなので、「<%=%>」で囲むことに注意する。 -->
