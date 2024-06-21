@@ -998,3 +998,8 @@ switch文とはある値によって処理を分岐する場合にswitch文を�
 switch文の中にcaseを追加することで処理を分けることができます。
 また、switch文ではbreakが非常に重要です。breakとはswitch文を終了する命令です。breakがないと、合致したcaseの処理を行った後、その次のcaseの処理も実行してしまいます
 。そのため、switch文を使うときにはbreakを忘れないように気をつけます。 -->
+
+<-- /* 6月22日 今日もJavaScriptのswitch文について学習をした。
+switchの条件の値がcaseの値と一致したとき、その部分の処理が実行されます。
+caseのどれにも一致しなかった時、defaultのブロックが実行されます。defaultはif文のelseに似たようなものです。
+ -->
